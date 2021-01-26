@@ -4,3 +4,4 @@
 [![GitHub forks](https://img.shields.io/github/forks/Mogakamo/Wasify-E-Commerce-API)](https://github.com/Mogakamo/Wasify-E-Commerce-API/network)
 [![GitHub stars](https://img.shields.io/github/stars/Mogakamo/Wasify-E-Commerce-API)](https://github.com/Mogakamo/Wasify-E-Commerce-API/stargazers)
 [![GitHub license](https://img.shields.io/github/license/Mogakamo/Wasify-E-Commerce-API)](https://github.com/Mogakamo/Wasify-E-Commerce-API/blob/main/LICENSE)
+![Requires.io (branch)](https://img.shields.io/requires/github/Mogakamo/Wasify-E-Commerce-API/main)
